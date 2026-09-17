@@ -45,4 +45,4 @@ the following columns:
 
 - **Review Timeline:** Analyzed reviews ranging from early 2019 to mid-2019.
 - **Private Room Demand:** Identified over 11,000+ private room listings across NYC neighborhoods.
-- **Average Market Price:** Derived the baseline nightly listing price ($141.78) after accounting for pricing skewness and outliers.
+- **Average Market Price:** Derived the average listing price - $141.78
